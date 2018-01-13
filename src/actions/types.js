@@ -1,0 +1,1 @@
+export const GET_APOD_DATA = 'get_apod_data';
